@@ -1,0 +1,8 @@
+{
+  "name": "Entity E-E-A-T & AI Visibility Snapshot Tool",
+  "description": "An executive-style consulting tool to audit a website's readiness for E-E-A-T and visibility in AI search engines such as Google AI Overviews, ChatGPT, Gemini, and Perplexity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
