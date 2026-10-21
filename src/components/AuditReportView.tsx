@@ -762,7 +762,7 @@ export default function AuditReportView({ report, onReset }: AuditReportViewProp
             <span>SYSTEM ENVELOPE: E-E-A-T ENTITY ANALYSIS PROTOCOL</span>
           </div>
           <div className="text-right">
-            <span>© 2026 Entity E-E-A-T &amp; AI Visibility Snapshot No. 2. Developed by Ami - SEO Girl. All rights reserved.</span>
+            <span>© 2026 Entity E-E-A-T &amp; AI Visibility Snapshot No. 2. Developed by <strong>SEO Girl - Ami</strong>. All rights reserved.</span>
           </div>
         </footer>
 
