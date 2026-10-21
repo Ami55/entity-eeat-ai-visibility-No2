@@ -436,7 +436,7 @@ export default function App() {
       <HowItWorksModal isOpen={isHowItWorksOpen} onClose={() => setIsHowItWorksOpen(false)} />
 
       <footer className="print-hidden mt-16 border-t border-slate-200 bg-white py-6 text-center text-xs text-slate-500">
-        <p>&copy; 2026 Entity E-E-A-T &amp; AI Visibility Snapshot No. 2. Developed by <strong className="text-slate-700">Ami - SEO Girl</strong>. All rights reserved.</p>
+        <p>&copy; 2026 Entity E-E-A-T &amp; AI Visibility Snapshot No. 2. Developed by <strong className="text-slate-700">SEO Girl - Ami</strong>. All rights reserved.</p>
       </footer>
     </div>
   );
